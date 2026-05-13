@@ -1,0 +1,3 @@
+ifastapi
+uvicorn[standard]
+
